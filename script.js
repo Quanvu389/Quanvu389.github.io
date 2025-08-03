@@ -48,7 +48,7 @@ function generateMessage(noCount) {
     "Anhh saii rồi , anhh đáng trách ạ",
     "Bé đừng giận anhh nữa nhoo",
     "Anhhh thích bé nhắm nhunnn đóoooo",
-    
+    "Max size chữ rồi, em đồng ý tha lỗi cho anh đi màaa",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
